@@ -1,6 +1,4 @@
-# PlanarCoils_MutualInductance
-Calculates and plots the inductance of a multi-layer coil using Biot-Savart law for self and mutual inductance. The script visualizes how inductance varies with the number of layers based on coil dimensions and spacing.
-# Multi-Layer Coil Inductance Calculator
+# Multi-Layer Coil Inductance Calculator (Developed from Biot-Savart Law)
 
 This Python script calculates and visualizes the inductance of a multi-layer coil using the Biot-Savart law to compute both self and mutual inductance. It allows you to determine how the inductance changes with the number of layers based on coil dimensions and spacing.
 
@@ -26,8 +24,16 @@ This Python script calculates and visualizes the inductance of a multi-layer coi
    git clone https://github.com/AbderraoufLalla/PlanarCoils_MutualInductance.git
 
 ## Output
+
    - **Self Inductance**: Displays the self-inductance value in microhenries (uH).
    - **Total Inductance**: Shows the total inductance for varying numbers of layers.
-   
 
+## Licence
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+
+Utilizes Biot-Savart law for inductance calculations.
+Incorporates SciPy for constants and mathematical operations, and Matplotlib for plotting.
 
