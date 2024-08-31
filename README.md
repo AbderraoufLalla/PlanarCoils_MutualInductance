@@ -25,4 +25,9 @@ This Python script calculates and visualizes the inductance of a multi-layer coi
    ```bash
    git clone https://github.com/AbderraoufLalla/PlanarCoils_MutualInductance.git
 
+## Output
+   - **Self Inductance**: Displays the self-inductance value in microhenries (uH).
+   - **Total Inductance**: Shows the total inductance for varying numbers of layers.
+   
+
 
