@@ -33,8 +33,3 @@ This Python script calculates and visualizes the inductance of a multi-layer coi
 
 Utilizes Biot-Savart law for inductance calculations.
 Incorporates SciPy for constants and mathematical operations, and Matplotlib for plotting.
-
-## Licence
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
